@@ -24,4 +24,4 @@ Answer : I learned how to use json,how to link github to vs code by use git
 ## AI-use statement
 
 _Did you use an AI tool in this lab? If yes, which one and for what (e.g., "ChatGPT to explain a Git error message"). If no, write "No AI tools used."_
-Answer : No AI tools used
+Answer : No AI
