@@ -29,7 +29,7 @@ const server = http.createServer((req, res) => {
     return;
   }
   // TODO: replace this with a proper 404 response
-  res.writeHead(200, { "Content-Type": "Text/plain" });
+  res.writeHead(404, { "Content-Type": "Text/plain" });
   res.end("404 response");
 });
 
